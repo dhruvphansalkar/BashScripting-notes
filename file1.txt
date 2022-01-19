@@ -1,0 +1,10 @@
+total 24
+drwxr-xr-x  2 mint mint  180 Jan 18 17:15 .
+drwxr-xr-x 17 mint mint  480 Jan 18 16:40 ..
+-rw-rw-r--  1 mint mint   62 Jan 18 16:42 file.txt
+-rw-rw-r--  1 mint mint    0 Jan 18 17:15 file1.txt
+-rw-rw-r--  1 mint mint    0 Jan 18 17:15 file2.txt
+-rwxrwxr-x  1 mint mint   77 Jan 18 16:57 pipeScript1.sh
+-rwxrwxr-x  1 mint mint   59 Jan 18 16:57 pipeScript2.sh
+-rwxrwxr-x  1 mint mint 1870 Jan 18 17:15 syntaxDemo.sh
+-rwxr-xr-x  1 mint mint 7803 Jan 17 23:34 ubiquity.desktop
